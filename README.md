@@ -1,16 +1,17 @@
-### Hi there 👋
+👨‍💻 Associate Software Engineer | Full Stack Developer
 
-<!--
-**JasithaPawan25/JasithaPawan25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With over 3 years of professional experience, I specialize in developing robust, scalable applications using a variety of programming languages and technologies. Currently, I work at Avenir IT, where I contribute to projects involving Java, JavaScript, React.js, TypeScript, Node.js, MongoDB, and MySQL. My expertise spans both front-end and back-end development, allowing me to tackle complex problems across the full tech stack.
 
-Here are some ideas to get you started:
+I have hands-on experience in building dynamic, responsive web applications, integrating databases, and working with cloud-based solutions. I’m always eager to learn and experiment with new technologies, having a working knowledge of .NET and other frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Key Skills:
+
+Frontend: React.js, JavaScript, HTML/CSS, TypeScript
+Backend: Java, Node.js, Express.js
+Databases: MongoDB, MySQL
+DevOps: Git, Docker, CI/CD pipelines
+Full-Stack Development
+Agile Methodologies & Team Collaboration
+
+
+Always open to collaborating on exciting projects and solving real-world problems through code!
